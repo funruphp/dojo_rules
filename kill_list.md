@@ -1,5 +1,4 @@
 Kill List
 =========
 
-* Elle Driver
 
